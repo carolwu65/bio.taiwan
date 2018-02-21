@@ -1,11 +1,15 @@
 <section id="vision">
     <header>
         <h2>
-            <strong>VISION</strong>
+            <strong>{{site.data.vision.title}}</strong>
         </h2>
         <p>
-            Innovation, Collaboration and Inspiration
+            {{site.data.vision.slogan}}
         </p>
+        <p class="vision-content">
+            {{site.data.vision.content}}
+        </p>
+
     </header>
 </section>
 
@@ -17,7 +21,14 @@
         margin-bottom: 0;
     }
 
-    #vision header p{
+    #vision header p {
         margin: 1em 0 0em 0;
+    }
+
+    .vision-content {
+        color: rgba(0, 0, 0, 0.5);
+        max-width: 900px;
+        margin: 2rem auto !important;
+        text-align: justify;
     }
 </style>
