@@ -26,6 +26,10 @@ github_username:  jekyll
 collections:
  actionplan:
   output: true
+ news:
+  output: true
+ events:
+  output: true
 
 
 

@@ -1,0 +1,28 @@
+<section id="news" class="carousel">
+        <h2><strong>NEWS</strong></h2>
+        <div class="reel">
+            {% assign news = site.news %}
+            {% for post in news %}
+            <article>
+                <a href="{{post.permalink}}" class="image featured">
+                    <img src="{{post.image}}"
+                        alt="" />
+                </a>
+                <p>{{post.date | date: '%B %d, %Y' }}</p>
+                <header>
+                    <h3>
+                        <a href="{{post.permalink}}">{{post.title}}</a>
+                    </h3>
+                </header>
+                <p>{{post.summary}}</p>
+            </article>
+            {% endfor %}
+        </div>
+    </section>
+    
+    <style>
+        #news{
+            padding: 2rem;
+            background:white;
+        }
+    </style>
