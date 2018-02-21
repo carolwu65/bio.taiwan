@@ -1,46 +1,50 @@
-<section id="banner">
+{% if site.data.opportunities %}
+<section id="opportunities">
     <header>
-        <h2>Taiwan’s Opportunities in the AI Industry</h2>
+        <h2>{{site.data.opportunities.title}}</h2>
         <div class="container">
             <div class="row">
                 <div class="6u 12u(narrow)">
-
+                    <img src="{{site.data.opportunities.image}}" alt="" style="width:80%">
                 </div>
                 <div class="6u 12u(narrow)">
                     <ul style="list-style:initial;text-align:left">
-                        <li>World leader in hardware manufacturing</li>
-                        <li>High vitality in small and medium enterprises (SMEs)</li>
-                        <li>ICT-enabled innovation throughout many </li>
-                        <li>Ranked #1 in “Global Open Data Index”</li>
+                        {% for statement in site.data.opportunities.content %}
+                        <li>{{statement}}</li>
+                        {% endfor %}
                     </ul>
                 </div>
             </div>
         </div>
     </header>
 </section>
+{% endif %}
+
 
 <style>
-    #banner {
+    #opportunities {
         background: url(images/bgtr.svg) top right no-repeat,
         url(images/bgbl.svg) bottom left no-repeat,
         url(images/bgbl.svg) bottom left no-repeat,
-        url(images/overlay.png),
         linear-gradient(45deg, rgb(143, 156, 191), rgb(77, 102, 142));
         color: white;
+        text-align: center;
+        padding: 2rem;
+        margin:0;
     }
 
-    #banner h2 {
+    #opportunities h2 {
         color: white;
         margin-bottom: 50px;
     }
 
-    #banner h3 {
+    #opportunities h3 {
         font-size: 1.5em;
         font-weight: 100;
         color: white;
     }
 
-    #banner p {
+    #opportunities p {
         color: rgba(255, 255, 255, 0.65);
     }
 
@@ -54,6 +58,51 @@
         background: rgba(255, 255, 255, 0.15);
         box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.5);
         color: #fff;
+    }
+
+    @media screen and (min-width: 1280px) {
+        #opportunities li {
+            font-size: 2.5rem;
+            line-height: 3.5rem;
+            margin-bottom: 1rem;
+            margin-left: 1rem
+        }
+    }
+
+    @media screen and (max-width: 1280px) {
+        #opportunities li {
+            font-size: 2rem;
+            line-height: 3rem;
+            margin-bottom: 1rem;
+            margin-left: 1rem
+        }
+    }
+
+    @media screen and (max-width: 960px) {
+        #opportunities li {
+            font-size: 2.5rem;
+            line-height: 3.5rem;
+            margin-bottom: 1rem;
+            margin-left: 5rem
+        }
+    }
+
+    @media screen and (max-width: 720px) {
+        #opportunities li {
+            font-size: 2rem;
+            line-height: 3.5rem;
+            margin-bottom: 1rem;
+            margin-left: 5rem
+        }
+    }
+
+    @media screen and (max-width: 425px) {
+        #opportunities li {
+            font-size: 1.5rem;
+            line-height: 2.5rem;
+            margin-bottom: 0.5rem;
+            margin-left: 2rem
+        }
     }
 
 
