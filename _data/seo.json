@@ -1,8 +1,8 @@
 {
-    "description": "Taiwan's ICT and semiconductors have created a good foundation for intelligent technology deveopment. Taiwan is seeking to develop a world-leading <i>AI on Device</i> solution and sound ecosystem that creates a niche market and become an important partner in the value chain of a global intelligent system, which incorporate the hardware and software collaboration to promote AI technology among industries with test fields, regulations, and data-sharing environment.",
+    "description": "BioMed Taiwan： Where innovation happens. To transform Taiwan into a hub of biotech and medical R&D in Asia.",
     "@type": "WebPage",
-    "url": "https://ai.taiwan.gov.tw",
-    "headline": "AI Taiwan",
+    "url": "http://bio.taiwan.gov.tw",
+    "headline": "BioMed Taiwan",
     "@context": "http://schema.org",
     "inLanguage": "en_US"
 }

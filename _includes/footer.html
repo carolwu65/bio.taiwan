@@ -4,21 +4,11 @@
             <div class="12u">
                 <section class="contact">
                     <ul class="menu">
+                        {% for item in site.data.nav %}
                         <li>
-                            <a href="/#vision" class="scrolly">Vision</a>
+                            <a href="{{item.link}}" class="scrolly">{{item.title}}</a>
                         </li>
-                        <li>
-                            <a href="/#opportunities" class="scrolly">Opportunities</a>
-                        </li>
-                        <li>
-                            <a href="/#actionplan" class="scrolly">Action Plan</a>
-                        </li>
-                        <li>
-                            <a href="/#news" class="scrolly">News</a>
-                        </li>
-                        <li>
-                            <a href="/#events" class="scrolly">Events</a>
-                        </li>
+                        {% endfor %}
                     </ul>
                 </section>
 
