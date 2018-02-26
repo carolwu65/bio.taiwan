@@ -42,11 +42,11 @@ medical devices
 Twenty-first century Taiwan is among the most internationally competitive, innovation-driven economies in the world. The following list speaks for itself.
 
 | --- | --- | --- |
-| Knowledge Economy Index | No. 1 / AsiaNo. 13 / World | World Bank (WB), 2012 |
-| Investment Environment | No. 2 / AsiaNo. 3 /World | Business Environment Risk Intelligence (BERi), 2013 |
+| Knowledge Economy Index | No. 1 / Asia No. 13 / World | World Bank (WB), 2012 |
+| Investment Environment | No. 2 / Asia No. 3 /World | Business Environment Risk Intelligence (BERi), 2013 |
 | Cluster Development | No. 2 / World | World Economic Forum (WEF), 2015 |
 | Competitiveness | No. 3 / Asia No. 14 / World | Institute for Management Development (IMD), 2017 |
-| Biotech Global Competitiveness | No. 3 / Asia No. 17 / 54 Nations | Scientific American Worldview, 2014 |
+| Biotech Global Competitiveness | No. 3 / Asia No. 17 / 54 &nbsp; Nations | Scientific American Worldview, 2014 |
 | Competitiveness Index | No. 4 / Asia No. 14 / 138 Countries | World Economic Forum (WEF), 2016 |
 | Economic Freedom | No. 5 / Asia No. 14 / 186 Countries | Index of Economic Freedom, 2015 |
 | Innovation Index | No.6/World | Economist Intelligence, 2013 |

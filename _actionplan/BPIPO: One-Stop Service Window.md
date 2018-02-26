@@ -1,6 +1,6 @@
 ---
 title: "BPIPO: One-Stop Service Window"
-summary: A number of great benefits offered to overseas partners and investors.
+summary: Contact us if you need any further information.
 image: "/images/BPIPO.png"
 category: actionplan
 permalink: /BPIPO-One-Stop-Service-Window/

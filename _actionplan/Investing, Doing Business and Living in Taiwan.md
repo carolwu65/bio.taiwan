@@ -1,7 +1,7 @@
 ---
 title: "Investing, Doing Business and Living in Taiwan"
 summary: "An awesome place to live, invest, and do business, and the best place in the world for expats."
-image: "/images/IDBL.png"
+image: "/images/IDBL.jpg"
 category: actionplan
 permalink: /Investing-Doing-Business-and-Living-in-Taiwan/
 layout: page

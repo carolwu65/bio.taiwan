@@ -1,7 +1,7 @@
 ---
 title: "Your Partner in Asia"
 summary: "Ranked World #2 in cluster development in 2016 by WEF"
-image: "/images/AO.jpg"
+image: "/images/YPA.jpg"
 category: actionplan
 permalink: /Your-Partner-in-Asia/
 layout: page

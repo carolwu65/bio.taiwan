@@ -7,7 +7,7 @@ permalink: /Overview-of-Taiwans-Biomedical-Industry/
 layout: page
 ---
 
-he global life sciences industry is projected to reach USD $1.8 trillion by 2019, and Asia will be one of its most important future markets. By 2019, the region is expected to generate more than half of all growth in the number of high-income households worldwide, and by 2025, 310 of the world's top 600 cities will be in Asia.
+The global life sciences industry is projected to reach USD $1.8 trillion by 2019, and Asia will be one of its most important future markets. By 2019, the region is expected to generate more than half of all growth in the number of high-income households worldwide, and by 2025, 310 of the world's top 600 cities will be in Asia.
 
 Taiwan's biomedical industry includes three major sectors: applied biotechnology, pharmaceuticals, and medical devices. 
 
