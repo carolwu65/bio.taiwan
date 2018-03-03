@@ -1,4 +1,4 @@
-{% if site.events==null %}
+
 <section id="events" class="carousel">
     <h2>
         <strong>EVENTS</strong>
@@ -13,7 +13,7 @@
             <p class="date">{{post.date | date: '%B %d, %Y' }}</p>
             <header>
                 <h3>
-                    <a href="#">{{post.title}}</a>
+                    <a href="{{post.permalink}}">{{post.title}}</a>
                 </h3>
             </header>
             <p>{{post.summary}}</p>
@@ -21,4 +21,3 @@
         {% endfor %}
     </div>
 </section>
-{% endif %}

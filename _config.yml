@@ -31,7 +31,7 @@ collections:
  events:
   output: true
 
-
+future: true
 
 # Build settings
 markdown: kramdown
