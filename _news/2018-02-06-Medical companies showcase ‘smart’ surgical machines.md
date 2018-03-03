@@ -3,7 +3,7 @@ title: "Medical companies showcase ‘smart’ surgical machines"
 summary: Several Taiwanese businesses yesterday showcased their “smart” surgical technologies at a forum in Taipei that was attended by about 200 medical experts from around the world.
 image: /images/img20180209170952993_800.jpg
 category: news
-permalink: news/Medical-companies-showcase-smart-surgical-machines/
+permalink: /news/Medical-companies-showcase-smart-surgical-machines/
 layout: page
 ---
 

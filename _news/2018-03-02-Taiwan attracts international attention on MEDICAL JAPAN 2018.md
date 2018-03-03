@@ -3,7 +3,7 @@ title: "Taiwan attracts international attention on MEDICAL JAPAN 2018"
 summary: MEDICAL JAPAN 2018- night of Taiwan trade relation" organized by Biomedical Industry Innovation Program (BIIP) which is established to seek to enhance domestic ecosystems, integrate innovative business clusters, was held at Hyatt Regency Osaka on February 22nd .
 image: /images/Osaka.jpg
 category: news
-permalink: news/taiwan-attracts-international-attention-on-MEDICAL-JAPAN-2018/
+permalink: /news/taiwan-attracts-international-attention-on-MEDICAL-JAPAN-2018/
 layout: page
 ---
 

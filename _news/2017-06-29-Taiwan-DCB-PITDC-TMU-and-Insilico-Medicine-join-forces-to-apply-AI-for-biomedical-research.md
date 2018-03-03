@@ -3,7 +3,7 @@ title: Taiwan DCB, PITDC, TMU and Insilico Medicine join forces to apply AI for 
 summary: DCB, PITDC, TMU, three of Taiwan's premier biomedical institutions, have teamed up with Baltimore-based Insilico Medicine to develop groundbreaking research in applied A.I. for biomedical science.
 image: https://media.eurekalert.org/multimedia_prod/pub/web/144402_web.jpg
 category: news
-permalink: news/Taiwan-DCB-PITDC-TMU-and-Insilico-Medicine-join-forces-to-apply-AI-for-biomedical-research/
+permalink: /news/Taiwan-DCB-PITDC-TMU-and-Insilico-Medicine-join-forces-to-apply-AI-for-biomedical-research/
 layout: page
 ---
 
