@@ -1,6 +1,6 @@
 ---
 title: 2018 MEDICARE TAIWAN and SenCARE
-summary: The 2018 MEDICARE TAIWAN (Taiwan International Medical & Healthcare Exhibition) and SenCARE (Taiwan International Senior Lifestyle and Health Care Show), the biggest medical and healthcare show in Taiwan, will be held from June 21 - 24, 2018, at Taipei World Trade Center Exhibition Hall 1(TWTC).
+summary: The 2018 MEDICARE TAIWAN and SenCARE, the biggest medical and healthcare show in Taiwan, will be held from June 21 - 24, 2018, at Taipei World Trade Center Exhibition Hall 1(TWTC).
 image: /images/2018 SenCARE Taiwan Int_l Senior Lifestyle and Health Care Show.jpg
 category: events
 permalink: events/2018-sencare-taiwan-int_l-senior-lifestyle-and-health-care-show/
