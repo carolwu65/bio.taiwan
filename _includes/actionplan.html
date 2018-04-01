@@ -13,7 +13,7 @@
                     <a href="{{post.permalink}}">{{post.title}}</a>
                 </h3>
             </header>
-            <p>{{post.summary}}</p>
+            <p>{{post.summary | truncatewords:20}}</p>
         </article>
         {% endfor %}
     </div>
