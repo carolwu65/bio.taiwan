@@ -7,10 +7,6 @@ permalink: /Entrepreneur/
 layout: page
 ---
 
-# **Entrepreneur**
-
-Are you considering setting up a new biomedical company in Taiwan? The government of Taiwan remains fully committed to providing a platform for entrepreneurs to realize their ambition and for emerging start-up companies to prosper on their innovative capacities and global potentials. If you are looking for some assistance with your seed funding, the following start-up grants should be of help. 
-
 ### National Development Fund Startup Angel Project
 National Development Fund Startup Angel Project Fund is to support entrepreneurs with innovative business ideas who are planning to establish and run their own start-ups so that companies with innovative capacities and global potential could grow rapidly.  The Fund sets a 5-year budget of NT$1 billion to finance 300 new start-ups, providing the initial funding necessary for crossing the start-up threshold. 
 
